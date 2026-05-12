@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.fbutton, 
+.bbutton {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.fbutton {
+    background-color: black;
+    color: white;
+}
+.bbutton {
+    background-color: yellow;
+}
